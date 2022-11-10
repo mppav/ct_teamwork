@@ -1,4 +1,4 @@
-# Data for the research "Modern information technologies for the organization of students' research work as a means of developing collective work skills".
+# Data for the research "Modern information technologies for the organization of students' research work as a means of developing teamwork skills".
 
 ## Authors:
 
