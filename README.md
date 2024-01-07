@@ -1,10 +1,14 @@
-# Data for the research "Modern information technologies for the organization of students' research work as a means of developing teamwork skills".
+# Data for the research "Developing students' ability to work as a team to carry out research using information technology".
 
 ## Authors:
 
-- Liliia Pavlenko (Department of Computer Technologies in Management and Education and Computer Science Berdyansk State Pedagogical University, Berdyansk, Ukraine)
-- Maksym Pavlenko (Department of Computer Technologies in Management and Education and Computer Science Berdyansk State Pedagogical University, Berdyansk, Ukraine)
-
+- Liliia Pavlenko (liliya.pavlenko@gmail.com)
+  - Department of Computer Technologies in Management and Education and Computer Science Berdyansk State Pedagogical University, Berdyansk, Ukraine
+- Maksym Pavlenko (pavlenko.2277@gmail.com)
+  - Department of Computer Technologies in Management and Education and Computer Science Berdyansk State Pedagogical University, Berdyansk, Ukraine
+- Yevhen Pavlenko (ujin.pavlenko@gmail.com):
+  - Department of Mathematics and Methods of Teaching MathematicsBerdyansk State Pedagogical University, Berdyansk, Ukraine
+  - Department of Information Control System Kharkiv National University of Radio Electronics, Kharkiv, Ukraine
 
 The repository stores the data of the pedagogical experiment of the study of the development of collective work skills using modern information technologies for the organization of students' research work.
 
@@ -14,7 +18,6 @@ The repository stores the data of the pedagogical experiment of the study of the
 - eg_befor.csv (experimental group before the experiment)
 - eg_after.csv (control group after the experiment)
 - eg_after.csv (experimental group after the experiment)
-
 
 ## Research methodology - Acceptance of Others Scale (AOS) (Fey‚ 1955)
 
